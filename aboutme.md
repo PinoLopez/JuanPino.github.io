@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Sobre mi (En Castellano)
 subtitle: Datos a destacar sobre mi
 ---
 

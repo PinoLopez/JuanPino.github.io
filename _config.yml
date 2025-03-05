@@ -21,10 +21,8 @@ author: Juan Pino
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   
-
 ################
 # --- Logo --- #
 ################
@@ -40,7 +38,6 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-
 #####################################
 # --- Footer social media links --- #
 #####################################
@@ -50,13 +47,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "creadoresdigitales@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: https://github.com/PinoLopez
   linkedin: https://www.linkedin.com/in/juan-pino-l%C3%B3pez-70aab755/
-
-# If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof of my experience
 
 ###########################
 # --- General options --- #
@@ -74,7 +66,7 @@ share-links-active:
 url-pretty: "https://www.linkedin.com/in/juan-pino-l%C3%B3pez-70aab755/"
 
 # Add the website title to the title of every page
-title-on-all-pages: false
+title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -246,7 +238,4 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
 
