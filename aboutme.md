@@ -1,0 +1,44 @@
+---
+layout: page
+title: About me
+subtitle: Datos a destacar sobre mi
+---
+
+- 6 Años de experiencia como Tester QA Engineer.
+- Conocimiento en todo tipos de prueba: Smoke, Sanity, Regresión, pruebas de aceptación de usuario (UAT), Verificación/Confirmación, Post-Deployment Verification (PDV).
+- Todos los niveles de pruebas (unitarias, componentes, sistemas, E2E, visual).
+- Experiencia en pruebas de servicio / API.
+- Pruebas de rendimiento.
+- Conocimientos básicos de pruebas de seguridad.
+- Conocimientos de Java, C++ y pseudo código.
+- Experiencia en entornos CI/CD. 
+- Nivel alto de inglés: tengo familia inglesa.
+- Conocimiento en pruebas de integración y de aceptación.
+- Conocimiento en frameworks de automatización de testing web como TestComplete de SmartBear.
+- Sensibilidad con las buenas prácticas y la calidad del producto.
+- Conocimiento de metodologías de pruebas de software.
+- Experiencia trabajando con Microsoft Visual Studio, Eclipse y Visual Studio Code
+- Habilidad para trabajar en un ambiente ágil y colaborativo.
+- Fuertes habilidades de comunicación y capacidad para trabajar de manera efectiva con diferentes equipos de varios países.
+- Experiencia con Jenkins, GitLab y Github
+- Experiencia con bases de datos SQL, usando SQLite
+- Experiencia con Swagger
+- Experiencia trabajando en un entorno ágil (Scrum/Kanban) y con las herramientas y metodologías asociadas.
+- Experiencia con repositorios de código y control de versiones Git. 
+- Gestión de tickets de soporte. 
+- Experiencia en validación de requisitos e historias de usuarios.
+- Experiencia en registrar, verificar y hacer seguimiento de los bugs encontrados.
+- Experiencia en aportar mejoras y sugerencias para las aplicaciones.
+- Seguimiento de la usabilidad de las aplicaciones.
+- Generación de informes de resultados.
+- Medición de la calidad de los procesos.
+- Experiencia colaborando con los Product Owners en la definición de criterios de aceptación para las historias de usuario.
+- He participado en sesiones de refinamiento para detectar unhappy paths e inconsistencias en las historias de usuario.
+- Experiencia en pruebas End-to-End (E2E) para validar historias de usuario y tareas dentro de sprints.
+- Experiencia en crear desde 0 y mantener el plan de pruebas de Regresión para cada despliegue.
+- Experiencia en pruebas Exploratorias para identificar, reportar y dar seguimiento a defectos, errores y fallos.
+- Propongo mejoras en los procesos de testing y en la estrategia de aseguramiento de calidad.
+- Colaboro con los equipos de desarrollo y negocio para optimizar la calidad del producto.
+- Manejo de herramientas de gestión de pruebas e incidencias (JIRA, X Ray).
+- Experiencia con herramientas de automatización de pruebas (Cypress).
+- Conocimientos en API testing (Postman, SoapUI).
