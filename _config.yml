@@ -47,8 +47,6 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "creadoresdigitales@gmail.com"
-  github: https://github.com/PinoLopez
-  linkedin: https://www.linkedin.com/in/juan-pino-l%C3%B3pez-70aab755/
 
 ###########################
 # --- General options --- #
@@ -58,7 +56,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
